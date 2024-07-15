@@ -1,0 +1,19 @@
+# Ingestion and Text Chunking
+pypdf
+PyPdf2 # more complex pdfs
+# Embeddings
+langchain
+langchain-core
+langchain-community
+# LLMs
+openai
+# UI
+fastapi
+uvicorn
+jinja2
+python-multipart
+faiss-cpu
+# Others as Project proceeds
+tiktoken
+aiofiles
+

@@ -11,3 +11,6 @@ conda create -n qna python=3.10 -y
 conda activate qna
 ```
 
+```bash
+pip install -r requierments.txt
+```
